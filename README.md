@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kishanSindhi
 - 👀 I’m interested in Flutter and Python
-- 🌱 I’m currently learning Flutter and aws
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me - You can mail me on ksindhi121@gmail.com
 
 <!---
