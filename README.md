@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kishanSindhi
+- 👋 Hi, I’m Kishan Sindhi
 - 👀 I’m interested in Flutter and Python
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me - You can mail me on ksindhi121@gmail.com
